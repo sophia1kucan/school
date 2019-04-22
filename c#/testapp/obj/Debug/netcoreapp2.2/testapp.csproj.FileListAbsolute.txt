@@ -1,0 +1,11 @@
+/work/school/c#/testapp/bin/Debug/netcoreapp2.2/testapp.deps.json
+/work/school/c#/testapp/bin/Debug/netcoreapp2.2/testapp.runtimeconfig.json
+/work/school/c#/testapp/bin/Debug/netcoreapp2.2/testapp.runtimeconfig.dev.json
+/work/school/c#/testapp/bin/Debug/netcoreapp2.2/testapp.dll
+/work/school/c#/testapp/bin/Debug/netcoreapp2.2/testapp.pdb
+/work/school/c#/testapp/obj/Debug/netcoreapp2.2/testapp.csprojAssemblyReference.cache
+/work/school/c#/testapp/obj/Debug/netcoreapp2.2/testapp.csproj.CoreCompileInputs.cache
+/work/school/c#/testapp/obj/Debug/netcoreapp2.2/testapp.AssemblyInfoInputs.cache
+/work/school/c#/testapp/obj/Debug/netcoreapp2.2/testapp.AssemblyInfo.cs
+/work/school/c#/testapp/obj/Debug/netcoreapp2.2/testapp.dll
+/work/school/c#/testapp/obj/Debug/netcoreapp2.2/testapp.pdb

@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/work/school/c#/testapp/testapp.csproj": {}
+  },
+  "projects": {
+    "/work/school/c#/testapp/testapp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/work/school/c#/testapp/testapp.csproj",
+        "projectName": "testapp",
+        "projectPath": "/work/school/c#/testapp/testapp.csproj",
+        "packagesPath": "/home/sophes/.nuget/packages/",
+        "outputPath": "/work/school/c#/testapp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/sophes/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
